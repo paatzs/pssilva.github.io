@@ -1,5 +1,0 @@
-(function($){
-  $(document).ready(function() {
-    // $('nav button.toggle.sub-menu-toggle').click();
-  });  
-})(jQuery);
